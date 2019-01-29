@@ -1,0 +1,2 @@
+Design and implemention of a two-wheeled robot that is capable of balancing itself with a crude proportional, integral, derivative (PID) algorithm that processes the feedback to generate compensating position control signals to the servo motors in order to balance the device. 
+Consists of the C program that integrates the MPU6050,L298N and other elements to an Arduiono Uno.
